@@ -23,7 +23,7 @@ Written and tested on Mac OS X 10.5.8 with Google Chrome 8.0.552.237
 
 ####Known issues:
 - Sometimes the app icon will revert to the Chrome icon. Just quit the instance and start it again to fix.
-- Sometimes your ```cmd+tab``` will fill up with Chrome icons. I'm guessing this is some dumb bug with Chrome.
+- Sometimes your ```⌘+tab``` will fill up with Chrome icons. I'm guessing this is some dumb bug with Chrome.
 
 [1]: http://www.lessannoyingsoftware.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac]
 [2]: mailto:happy@hot.ee
