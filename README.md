@@ -1,5 +1,5 @@
 ##Create a Google Chrome "application" for OSX
-######(a.k.a. another instance with a unique name/icon)
+######(a.k.a. another instance with a unique name/icon; a.k.a. Site Specific Browser (like Fluid))
 
 #### Original README
 > It's derived from [Bracken King's shell script][1], who deserves all the credit for the idea. I just wanted to make this functionality usable for a couple of friends who never want to see a terminal screen.  
